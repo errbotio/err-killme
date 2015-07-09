@@ -1,0 +1,9 @@
+[Core]
+Name = KillMe
+Module = killme
+
+[Documentation]
+Description = Kill your bot.
+
+[Python]
+Version = 2+
